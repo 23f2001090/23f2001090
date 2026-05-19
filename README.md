@@ -84,38 +84,7 @@ A full-stack placement management system designed for Students, Companies, and A
 ### ⚙️ Tech Stack
 Flask • SQLAlchemy • Bootstrap • SQLite
 
----
 
-## 🔹 Chatrix — Real-Time Chat UI
-
-Modern chat application frontend with responsive UI, typing animations, emoji picker, and backend API integration.
-
-### ✨ Features
-- Responsive Chat UI
-- Typing Animation
-- Emoji Picker
-- API Integration
-- Dark Modern Interface
-
-### ⚙️ Tech Stack
-React • Vite • CSS • REST APIs
-
----
-
-## 🔹 KIIT Katalog
-
-Contributed to a PYQ sharing platform for students with upload pipeline and cloud storage integration.
-
-### ✨ Features
-- PDF Upload Pipeline
-- Cloud Storage Integration
-- Admin Upload Management
-- PYQ Sharing System
-
-### ⚙️ Tech Stack
-Next.js • MongoDB • Cloudflare R2 • Vercel
-
----
 
 # 🌐 Community Involvement
 
@@ -124,20 +93,6 @@ Next.js • MongoDB • Cloudflare R2 • Vercel
 🔸 **Core Member** — CodeCrafter Society  
 
 🔹 **Member** — Google Developer Group, IIT Madras  
-
-🔸 **Cloud Learner** — GFG KIIT & GDG KIIT  
-
-🔹 **Member** — E-Labs KIIT  
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anisha-Bhargava&show_icons=true&theme=tokyonight" />
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anisha-Bhargava&layout=compact&theme=tokyonight"/>
-</p>
 
 ---
 
